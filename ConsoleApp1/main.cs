@@ -6,8 +6,10 @@ namespace ConsoleApp1{
             // Week1827_1 week1827_1 = new Week1827_1();
             // week1827_1.test();
 
-            Week1827_2 week1827_2 = new Week1827_2();
-            week1827_2.test();
+            // Week1827_2 week1827_2 = new Week1827_2();
+            /// week1827_2.test();
+            Week291_1.space_counter();
         }
+        
     }
 }
