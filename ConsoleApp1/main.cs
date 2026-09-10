@@ -8,7 +8,9 @@ namespace ConsoleApp1{
 
             // Week1827_2 week1827_2 = new Week1827_2();
             /// week1827_2.test();
-            Week291_1.space_counter();
+            // Week291_1.space_counter();
+
+            // Week398_1.marks_to_grade();
         }
         
     }
