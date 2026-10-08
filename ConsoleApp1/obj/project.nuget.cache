@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8hQrkyHk9jQ=",
+  "dgSpecHash": "g/Nu8HxUkRo=",
   "success": true,
   "projectFilePath": "C:\\Users\\BraggD\\Documents\\GitHub\\CSharp-Fall-Semester-2026\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BraggD\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\BraggD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
