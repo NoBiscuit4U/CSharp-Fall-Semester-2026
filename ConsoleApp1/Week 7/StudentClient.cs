@@ -18,7 +18,7 @@ namespace DepInjTest{
             }
 
             Console.WriteLine("Search For Student with ID = 1");
-            Console.WriteLine($"Found: {_IStudentRepository.GetStudentById(1)}");
+            Console.WriteLine($"Found: {_IStudentRepository.GetStudentById(1).Name}");
 
         }
     }
